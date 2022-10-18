@@ -1,3 +1,5 @@
+package algorithems
+
 import java.util.*
 
 internal class TicTacToe : Buttons {
