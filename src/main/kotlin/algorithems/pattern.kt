@@ -53,7 +53,7 @@ object pattern {
                     if (j > value(d / 2, k) && j <= cord(d / 2, k)) print(" * ") else print("   ")
                 } else print("   ")
             }
-            if (i >= begin && i <= d) k++
+            if (i in begin..d) k++
             println()
         }
     }

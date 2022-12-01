@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef99afa-7fc0-4709-96fd-d6ec96f1fb26" name="Changes" comment="Added TicTacToe file">
+    <list default="true" id="5ef99afa-7fc0-4709-96fd-d6ec96f1fb26" name="Changes" comment="added package">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algorithems/GBHeaps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tutorial1/Chapter1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tutorial1/HeapAlgo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/a.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/algorithems/a.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/pattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/algorithems/pattern.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,46 +23,75 @@
       <option value="directory" />
     </option>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FymBR8iXIE1WKButeHpEvjGDhq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/hilal/IdeaProjects/KotlinTutorial/src/main/kotlin",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hilal/IdeaProjects/KotlinTutorial&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hilal\IdeaProjects\KotlinTutorial\src\main\kotlin" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hilal\IdeaProjects\KotlinTutorial\src\main\kotlin\Algorithem" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tutorial1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TicTacToe">
+  <component name="RunManager" selected="Kotlin.Grid">
+    <configuration name="Chapter1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial1.Chapter1Kt" />
+      <module name="KotlinTutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grid" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithems.Grid" />
+      <module name="KotlinTutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="MAIN_CLASS_NAME" value="algorithems.MainKt" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SwitchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchKt" />
+      <option name="MAIN_CLASS_NAME" value="algorithems.SwitchKt" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,6 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Grid" />
+        <item itemvalue="Kotlin.Chapter1Kt" />
         <item itemvalue="Kotlin.TicTacToe" />
         <item itemvalue="Kotlin.SwitchKt" />
         <item itemvalue="Kotlin.MainKt" />
@@ -135,11 +172,19 @@
       <option name="project" value="LOCAL" />
       <updated>1666052353436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added package">
+      <created>1666055203380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666055203380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added TicTacToe file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added TicTacToe file" />
+    <MESSAGE value="added package" />
+    <option name="LAST_COMMIT_MESSAGE" value="added package" />
   </component>
 </project>
