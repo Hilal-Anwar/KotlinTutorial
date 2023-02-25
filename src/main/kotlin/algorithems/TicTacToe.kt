@@ -13,26 +13,39 @@ internal class TicTacToe : Buttons {
         val w = option()
         box()
         for (i in 1..9) {
-            if (w == "Computer") {
-                board(w)
-                deviceTurn(Buttons.y[row - 1], Buttons.x[col - 1])
-            } else board(w)
+            when (w) {
+                "Computer" -> {
+                    board(w)
+                    deviceTurn(Buttons.
+                    y[row - 1], Buttons.x[col - 1])
+                }
+
+                else -> board(w)
+            }
             show()
             k = check()
-            if (k == 3 && count == 9) {
-                println("The game is draw")
-                thank()
-                break
-            }
-            if (k == 1) {
-                if (w == "Computer") println("You lose") else println("$w player won")
-                thank()
-                break
-            }
-            if (k == 2) {
-                if (w == "Computer") println("You won") else println("$w player won")
-                thank()
-                break
+            when {
+                k == 3 && count == 9 -> {
+                    println("The game is draw")
+                    thank()
+                    break
+                }
+
+                k == 1 -> {
+                    if (w == "Computer")
+                        println("You lose")
+                    else println("$w player won")
+                    thank()
+                    break
+                }
+
+                k == 2 -> {
+                    if (w == "Computer")
+                        println("You won")
+                    else println("$w player won")
+                    thank()
+                    break
+                }
             }
         }
     }
@@ -226,6 +239,7 @@ internal class TicTacToe : Buttons {
             println()
         }
     }
+
     private fun check(): Int {
         if (arrays[1][2] == "0" && arrays[1][7] == "0" && arrays[1][12] == "0") return 1
         if (arrays[3][2] == "0" && arrays[3][7] == "0" && arrays[3][12] == "0") return 1

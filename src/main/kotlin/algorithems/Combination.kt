@@ -54,9 +54,9 @@ object Combination {
         var fac2: Long = 1
         var fac3: Long = 1
         for (i in 1..d.length) {
-            fac1 = fac1 * i
-            if (i <= d.length - limit) fac2 = fac2 * i
-            if (i <= limit) fac3 = fac3 * i
+            fac1 *= i
+            if (i <= d.length - limit) fac2 *= i
+            if (i <= limit) fac3 *= i
         }
         return fac1 / (fac2 * fac3)
     } /*

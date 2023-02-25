@@ -2,7 +2,7 @@ package tutorial1
 
 import kotlin.math.*;
 
-fun main(args: Array<String>) {
+fun main() {
     lcm(5, 9)
     hcf(18,90)
 }

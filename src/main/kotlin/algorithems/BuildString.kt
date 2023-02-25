@@ -21,18 +21,18 @@ object BuildString {
             var i = 0
             while (i < s.length) {
                 for (j in i until s.length) {
-                    sr = sr + s[j]
+                    sr += s[j]
                     if (str.toString().contains(sr)) sub = sr else {
                         sr = ""
                         break
                     }
                 }
                 if (sub.length > 1) {
-                    TotalScore = TotalScore + b
+                    TotalScore += b
                     str.append(sub)
                     i = i + sub.length - 1
                 } else {
-                    TotalScore = TotalScore + a
+                    TotalScore += a
                     if (sub == "") str.append(s[i]) else {
                         str.append(sub)
                     }
