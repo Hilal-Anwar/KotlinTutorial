@@ -1,4 +1,0 @@
-package algorithems
-
-class GBHeaps {
-}
