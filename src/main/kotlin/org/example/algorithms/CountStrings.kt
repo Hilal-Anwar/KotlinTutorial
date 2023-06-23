@@ -1,4 +1,4 @@
-package org.example.algorithems
+package org.example.algorithms
 
 import java.util.*
 
@@ -11,12 +11,12 @@ object CountStrings {
         var sub = ""
         val functionalValue = ArrayList<Int>()
         var point = 0
-        for (i in 0 until string.length) {
+        for (i in string.indices) {
             abb = string.substring(0, i + 1)
             for (j in 0..string.length - abb.length) {
                 sub = string.substring(j, j + abb.length)
                 if (sub == abb) {
-                    point = point + abb.length
+                    point += abb.length
                 }
             }
             functionalValue.add(point)

@@ -1,4 +1,4 @@
-package org.example.algorithems
+package org.example.algorithms
 
 object local {
     @JvmStatic

@@ -5,72 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef99afa-7fc0-4709-96fd-d6ec96f1fb26" name="Changes" comment="added some question">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/JConverter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/currency/CurrencyLoader.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/currency/Database.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Angle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Area.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Currencies.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Density.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Energy.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Force.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Length.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Mass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Metric.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Power.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Pressure.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Speed.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Temperature.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Time.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Torque.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Viscosity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/jconvert/quantities/Volume.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/AboutFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Gender.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/Counter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/Rectangle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/AmazonProblem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/AmazonProblem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/Binary_sort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Binary_sort.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/BuildString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/BuildString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/Combination.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Combination.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/CountStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/CountStrings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/GBHeaps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/GBHeaps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/Grid.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Grid.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/KickStart.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/KickStart.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/Lines.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Lines.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/Palindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Palindrome.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/Pip.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Pip.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/Problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Problem_1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/PuzzleBox.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/PuzzleBox.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/Switch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Switch.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/TicTacToe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/TicTacToe.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/a.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/a.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/arrayToTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/arrayToTree.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/array_fun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/array_fun.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/circle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/circle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/fun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/fun.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/li.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/li.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/local.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/local.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/pattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/pattern.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/puzzleMaker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/puzzleMaker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algorithems/tree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/tree.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tutorial1/Chapter1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/Chapter1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tutorial1/HeapAlgo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/HeapAlgo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/ArrayString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/ArrayString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/ImageReaderExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/ImageReaderExample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/Maps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Maps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/Parcel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Parcel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/PascalTriangles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/PascalTriangles.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/Pattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Pattern.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/RotateInnerRectangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/RotateInnerRectangle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/SierpinskiTriangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/SierpinskiTriangle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/StringFunQuestions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/StringFunQuestions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Test.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/util/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Util.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/AmazonProblem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/AmazonProblem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Binary_sort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Binary_sort.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/BuildString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/BuildString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Combination.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Combination.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/CountStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/CountStrings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/GBHeaps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/GBHeaps.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Grid.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Grid.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/KickStart.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/KickStart.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Lines.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Lines.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Palindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Palindrome.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Pip.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Pip.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/PuzzleBox.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/PuzzleBox.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Switch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Switch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/TicTacToe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/TicTacToe.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/a.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/a.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/arrayToTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/arrayToTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/array_fun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/array_fun.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/circle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/circle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/fun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/fun.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/li.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/li.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/local.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/local.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/pattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/pattern.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/puzzleMaker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/puzzleMaker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/tree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/tree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/AboutFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/AboutFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Parcel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Parcel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/RotateInnerRectangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/RotateInnerRectangle.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,12 +55,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
+        <option value="Kotlin Data Class" />
+        <option value="module-info" />
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/Counter.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -120,7 +95,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hilal/IdeaProjects/KotlinTutorial/src/main/kotlin&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hilal/IdeaProjects/AsciiChessKotlin&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -135,6 +110,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hilal\IdeaProjects\KotlinTutorial\src\main\kotlin\Algorithem" />
     </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="org.example.algorithems" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -143,37 +121,73 @@
       <recent name="tutorial1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AboutFunctionsKt">
-    <configuration name="AboutFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.tutorial2.AboutFunctionsKt" />
+  <component name="RunManager" selected="Kotlin.RectangleKt">
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Counter" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tutorial2.Counter" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.util.Pattern" />
+    <configuration name="Parcel" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.util.Parcel" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SierpinskiTriangle" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.util.SierpinskiTriangle" />
+    <configuration name="ParcelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.util.ParcelKt" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFunQuestions (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.util.StringFunQuestions" />
+    <configuration name="RectangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tutorial2.RectangleKt" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFunQuestions" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.StringFunQuestions" />
+    <configuration name="UserKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.UserKt" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -223,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.AboutFunctionsKt" />
-        <item itemvalue="Kotlin.SierpinskiTriangle" />
-        <item itemvalue="Kotlin.Pattern" />
-        <item itemvalue="Kotlin.StringFunQuestions (1)" />
-        <item itemvalue="Kotlin.StringFunQuestions" />
+        <item itemvalue="Kotlin.RectangleKt" />
+        <item itemvalue="Kotlin.UserKt" />
+        <item itemvalue="Kotlin.ParcelKt" />
+        <item itemvalue="Kotlin.Parcel" />
+        <item itemvalue="Kotlin.Counter" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677357497831</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added some question">
+      <created>1687076923765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687076923765</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

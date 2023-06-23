@@ -1,4 +1,4 @@
-package org.example.algorithems
+package org.example.algorithms
 
 import java.util.*
 
@@ -7,7 +7,7 @@ object AmazonProblem {
     fun main(args: Array<String>) {
         println("Enter the natural number")
         val number = Scanner(System.`in`).nextInt()
-        println(org.example.algorithems.AmazonProblem.Num_Way(number))
+        println(org.example.algorithms.AmazonProblem.Num_Way(number))
     }
 
     private fun Num_Way(number: Int): Int {

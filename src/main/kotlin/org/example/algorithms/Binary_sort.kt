@@ -1,12 +1,12 @@
-package org.example.algorithems
+package org.example.algorithms
 
 import java.util.*
 
 object Binary_sort {
     @JvmStatic
     fun main(args: Array<String>) {
-        val b = org.example.algorithems.Binary_sort.randomArray(100000)
-        org.example.algorithems.Binary_sort.tree_sort(b)
+        val b = org.example.algorithms.Binary_sort.randomArray(100000)
+        org.example.algorithms.Binary_sort.tree_sort(b)
         println(Arrays.toString(b))
         println("ddd")
     }

@@ -1,6 +1,9 @@
 package org.example.util
 
-class RotateInnerRectangle {
+import org.example.algorithms.Gender
+import org.example.algorithms.User
+
+class RotateInnerRectangle(name: String) {
     fun randomMatrix(size: Int, b: IntArray): Array<Array<String?>> {
         val a = Array(size) { arrayOfNulls<String>(size) }
         for (i in 0 until size) {
@@ -83,7 +86,7 @@ class RotateInnerRectangle {
         @Throws(InterruptedException::class)
         @JvmStatic
         fun main(args: Array<String>) {
-            val a = RotateInnerRectangle()
+            val a = RotateInnerRectangle("78")
             val size = 100
             val b = IntArray(size / 2)
             var i = 1

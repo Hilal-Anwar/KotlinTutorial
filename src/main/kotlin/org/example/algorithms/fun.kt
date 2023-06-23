@@ -1,4 +1,4 @@
-package org.example.algorithems
+package org.example.algorithms
 
 object `fun` {
     fun fab(a: Long, b: Long, len: Long): Long {

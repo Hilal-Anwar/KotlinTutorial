@@ -24,6 +24,7 @@ fun Printer(block: () -> Unit): Printer = object : Printer {
 val isEven = IntPredicate(fun(it: Int): Boolean {
     return it % 2 == 0
 })
+
 fun main() {
     foo(1) {
         println("hjkgjkhkhkl")

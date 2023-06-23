@@ -1,4 +1,4 @@
-package org.example.algorithems
+package org.example.algorithms
 
 fun main(args: Array<String>) {
     println("Hello World!")
