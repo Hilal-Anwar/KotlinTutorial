@@ -4,7 +4,7 @@ import kotlin.math.*;
 
 fun main() {
     lcm(5, 9)
-    hcf(18,90)
+    hcf(18, 90)
 }
 
 fun lcm(a: Int, b: Int) {
@@ -25,14 +25,15 @@ fun lcm(a: Int, b: Int) {
     }
     println("The lcm of $a and $b is ${lcm * a * b}")
 }
-fun hcf(a:Int,b:Int){
+
+fun hcf(a: Int, b: Int) {
     var max = max(a, b)
-    var min= min(a,b)
-    var tem=1
-    while (min!=0){
-        tem=min
-        min=max%min
-        max=tem
+    var min = min(a, b)
+    var tem = 1
+    while (min != 0) {
+        tem = min
+        min = max % min
+        max = tem
     }
     println("The hcf of $a and $b is $tem")
 }

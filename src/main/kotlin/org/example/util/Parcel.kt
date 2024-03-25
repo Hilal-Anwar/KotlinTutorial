@@ -1,10 +1,9 @@
 package org.example.util
 
-import org.example.algorithms.User
 import java.util.*
 
 
-fun main() {
+fun main(args:Array<String>) {
     val `in` = Scanner(System.`in`)
     println("Enter the mass in gram")
     val mass = `in`.nextInt()

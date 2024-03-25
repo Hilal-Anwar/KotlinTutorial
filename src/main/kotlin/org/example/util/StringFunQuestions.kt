@@ -2,7 +2,7 @@ package org.example.util
 
 import java.util.*
 
-internal class StringFunQuestions {
+internal class StringFunQuestions:KRunnable {
     fun countWords(str: String): Long {
         return Arrays.stream(str.split("[\\s,.\\d\n]".toRegex()).dropLastWhile { it.isEmpty() }.toTypedArray())
             .filter { str: String -> isNotEmpty(str) }
@@ -36,12 +36,16 @@ internal class StringFunQuestions {
         fun main(args: Array<String>) {
             val st = StringFunQuestions()
             Util.println("Number of words in your sentence are:")
-            println(st.countWords("I love to code"))
+            println(st.countWords("  I love    to    code"))
             println(st.charFrequency("Pineapple"))
         }
 
         fun isNotEmpty(str: String): Boolean {
             return str.isNotEmpty()
         }
+    }
+
+    override fun invoke() {
+        TODO("Not yet implemented")
     }
 }

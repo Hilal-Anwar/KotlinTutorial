@@ -5,7 +5,7 @@ import java.util.*
 internal class HeapAlgo {
     fun printArr(a: IntArray?, n: Int) {
         /*for (int i = 0; i < n; i++) {
-            System.out.print(a[i] + " ");
+            System.out.pri(a[i] + " ");
         }
         System.out.println();*/
     }
@@ -13,7 +13,7 @@ internal class HeapAlgo {
     // Generating permutation using Heap Algorithm
     fun heapPermutation(a: IntArray, size: Int) {
         if (size == 1) println(a.contentToString()) else {
-            for (i in 0 until size) {
+            for (i in 0..<size) {
                 heapPermutation(a, size - 1)
                 var temp: Int
                 if (size % 2 != 0) {
@@ -33,7 +33,7 @@ internal class HeapAlgo {
         @JvmStatic
         fun main(args: Array<String>) {
             val obj = HeapAlgo()
-            val a = intArrayOf(1, 2, 3, 4)
+            val a = intArrayOf(1, 2, 3, 4,7,9,8)
             val start = System.currentTimeMillis()
             obj.heapPermutation(a, a.size)
             println(System.currentTimeMillis() - start)

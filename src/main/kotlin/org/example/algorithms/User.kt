@@ -26,7 +26,8 @@ class Example {
     fun printFunctionType() {
         println("Class method")
     }
-    fun some_info_of_funtion():String{
+
+    fun some_info_of_funtion(): String {
         return "This function does nothing"
     }
 
@@ -35,7 +36,7 @@ class Example {
 
 fun Example.printFunctionType(i: Int) {
     println("Extension function #$i")
-    fun Example.some_info_of_funtion():String ="pkg;lfk"
+    fun Example.some_info_of_funtion(): String = ""
 
 
 }

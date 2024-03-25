@@ -7,7 +7,7 @@ package org.example.util
 object PascalTriangles {
     @JvmStatic
     fun main(args: Array<String>) {
-        draw_pascal_triangle(100)
+        draw_pascal_triangle(10)
     }
 
     fun draw_pascal_triangle(size: Int) {

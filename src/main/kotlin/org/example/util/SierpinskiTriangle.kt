@@ -8,10 +8,10 @@ object SierpinskiTriangle {
     @JvmStatic
     fun main(args: Array<String>) {
         val value = args[0].toInt()
-        println(sierpinski_triangle(value))
+        println(sierpinskiTriangle(value))
     }
 
-    fun sierpinski_triangle(size: Int): String {
+    private fun sierpinskiTriangle(size: Int): String {
         var start = size
         var end = size
         val s = StringBuilder()
@@ -37,24 +37,24 @@ object SierpinskiTriangle {
             if ((i + 1) % 4 == 0) {
                 t = if (t == 7) 0 else t + 1
             }
-            start = start - 1
-            end = end + 1
+            start -= 1
+            end += 1
             s.append('\n')
         }
         return s.toString()
     }
 
-    fun pascal(a: LongArray): LongArray {
+    private fun pascal(a: LongArray): LongArray {
         val tem = LongArray(a.size + 1)
         tem[0] = 1
-        for (i in 1 until a.size) {
+        for (i in 1..<a.size) {
             tem[i] = (a[i - 1] + a[i]) % 2
         }
         tem[a.size] = 1
         return tem
     }
 
-    fun getColor(i: Int): String {
+    private fun getColor(i: Int): String {
         val color = arrayOf(
             "\u001b[0;31m", "\u001b[0;32m",
             "\u001b[0;33m", "\u001b[0;34m", "\u001b[0;35m",
