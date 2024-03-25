@@ -5,41 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef99afa-7fc0-4709-96fd-d6ec96f1fb26" name="Changes" comment="added some question">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Gender.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/Counter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/Rectangle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/CurrencyNotes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/Learn1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Fun.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Gender.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/KRunnable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Numbers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/TypeAlias.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/AmazonProblem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/AmazonProblem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Binary_sort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Binary_sort.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/BuildString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/BuildString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Combination.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Combination.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/CountStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/CountStrings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/GBHeaps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/GBHeaps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Grid.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Grid.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/KickStart.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/KickStart.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Lines.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Lines.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Palindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Palindrome.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Pip.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Pip.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Problem_1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/PuzzleBox.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/PuzzleBox.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/Switch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Switch.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/TicTacToe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/TicTacToe.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/a.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/a.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/arrayToTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/arrayToTree.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/array_fun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/array_fun.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/circle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/circle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/fun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/fun.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/li.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/li.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/local.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/local.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/pattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/pattern.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/puzzleMaker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/puzzleMaker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithems/tree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/tree.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/AboutFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/AboutFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/Chapter1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/Chapter1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/HeapAlgo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/HeapAlgo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/AboutFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/AboutFunctions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Parcel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Parcel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/RotateInnerRectangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/RotateInnerRectangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/PascalTriangles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/PascalTriangles.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/SierpinskiTriangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/SierpinskiTriangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/StringFunQuestions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/StringFunQuestions.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,56 +43,76 @@
         <option value="Kotlin Data Class" />
         <option value="module-info" />
         <option value="Class" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLabMergeRequestsSettings"><![CDATA[{}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/Counter.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.9.1" />
+        <option name="customMavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.9.4" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2FymBR8iXIE1WKButeHpEvjGDhq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hilal/IdeaProjects/AsciiChessKotlin&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.FunKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hilal/IdeaProjectsStudents/KotlinTutorial",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.kotlinCompiler",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hilal\IdeaProjects\KotlinTutorial\src\main\kotlin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hilal\IdeaProjectsStudents\KotlinTutorial\src\main\kotlin\org\example\tutorial1" />
       <recent name="C:\Users\hilal\IdeaProjects\KotlinTutorial\src\main\kotlin\Algorithem" />
     </key>
     <key name="CreateKotlinClassDialog.RecentsKey">
@@ -121,7 +126,7 @@
       <recent name="tutorial1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.RectangleKt">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -158,92 +163,58 @@
       <setting name="focusEditor" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Counter" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.tutorial2.Counter" />
+    <configuration name="AboutFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tutorial1.AboutFunctionsKt" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parcel" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.util.Parcel" />
+    <configuration name="FunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.util.FunKt" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParcelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.util.ParcelKt" />
+    <configuration name="HeapAlgo" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tutorial1.HeapAlgo" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.tutorial2.RectangleKt" />
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.MainKt" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.UserKt" />
+    <configuration name="NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.util.NumbersKt" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.RectangleKt" />
-        <item itemvalue="Kotlin.UserKt" />
-        <item itemvalue="Kotlin.ParcelKt" />
-        <item itemvalue="Kotlin.Parcel" />
-        <item itemvalue="Kotlin.Counter" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.FunKt" />
+        <item itemvalue="Kotlin.NumbersKt" />
+        <item itemvalue="Kotlin.HeapAlgo" />
+        <item itemvalue="Kotlin.AboutFunctionsKt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.127" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.127" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -253,6 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665472568746</updated>
+      <workItem from="1711400016513" duration="1141000" />
     </task>
     <task id="LOCAL-00001" summary="Added TicTacToe file">
       <created>1666052353436</created>
@@ -289,8 +261,29 @@
       <option name="project" value="LOCAL" />
       <updated>1687076923765</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added some question">
+      <created>1687543406625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687543406625</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added TicTacToe file" />
