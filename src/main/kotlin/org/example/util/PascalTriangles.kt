@@ -7,10 +7,11 @@ package org.example.util
 object PascalTriangles {
     @JvmStatic
     fun main(args: Array<String>) {
-        draw_pascal_triangle(10)
+        drawPascalTriangle(10)
+        drawPascalTriangle(25)
     }
 
-    fun draw_pascal_triangle(size: Int) {
+    private fun drawPascalTriangle(size: Int) {
         var start = size
         var end = size
         var `val` = longArrayOf()
@@ -31,23 +32,23 @@ object PascalTriangles {
                     }
                 } else print(adjustSpace(" ", max))
             }
-            start = start - 1
-            end = end + 1
+            start -= 1
+            end += 1
             println()
         }
     }
 
-    fun adjustSpace(s: String, max: Int): String {
+    private fun adjustSpace(s: String, max: Int): String {
         return s + " ".repeat(max - s.length)
     }
 
-    fun pascal(a: LongArray, index: Int, max_size: Int): LongArray {
+    private fun pascal(a: LongArray, index: Int, maxSize: Int): LongArray {
         val tem = LongArray(a.size + 1)
         tem[0] = 1
-        for (i in 1 until a.size) {
+        for (i in 1..<a.size) {
             tem[i] = a[i - 1] + a[i]
         }
         tem[a.size] = 1
-        return if (index < max_size) pascal(tem, index + 1, max_size) else tem
+        return if (index < maxSize) pascal(tem, index + 1, maxSize) else tem
     }
 }

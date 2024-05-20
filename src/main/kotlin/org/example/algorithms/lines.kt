@@ -1,8 +1,7 @@
 package org.example.algorithms
 
 import java.io.IOException
-
-object Lines {
+object lines {
     @Throws(IOException::class, InterruptedException::class)
     @JvmStatic
     fun main(args: Array<String>) {

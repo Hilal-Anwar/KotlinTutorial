@@ -4,27 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef99afa-7fc0-4709-96fd-d6ec96f1fb26" name="Changes" comment="added some question">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/CurrencyNotes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/Learn1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Fun.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Gender.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/KRunnable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Numbers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/TypeAlias.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5ef99afa-7fc0-4709-96fd-d6ec96f1fb26" name="Changes" comment="migrated to Kotlin maven plugin 2.0.0-Beta5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/User.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/Chapter1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/Chapter1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/HeapAlgo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/HeapAlgo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/AboutFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/tutorial1/AboutFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Parcel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/Parcel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/PascalTriangles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/PascalTriangles.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/SierpinskiTriangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/SierpinskiTriangle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/util/StringFunQuestions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/util/StringFunQuestions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/Lines.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/lines.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/algorithms/a.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +36,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitLabMergeRequestsSettings"><![CDATA[{}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hilal-Anwar&quot;
+  }
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: []
+}</component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Hilal-Anwar/KotlinTutorial.git",
+    "accountId": "b839e58b-f1f8-48ef-9c5d-76b3fba341db"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/org/example/tutorial2/Counter.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider">{}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -86,7 +84,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.CurrencyNotesKt.executor": "Run",
     "Kotlin.FunKt.executor": "Run",
+    "Kotlin.ImageReaderExample.executor": "Run",
+    "Kotlin.Lines.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Maps.executor": "Run",
+    "Kotlin.RotateInnerRectangle.executor": "Run",
+    "Kotlin.SierpinskiTriangle.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -126,7 +131,7 @@
       <recent name="tutorial1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt">
+  <component name="RunManager" selected="Kotlin.PascalTriangles">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -163,13 +168,6 @@
       <setting name="focusEditor" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="AboutFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.tutorial1.AboutFunctionsKt" />
-      <module name="KotlinTutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.util.FunKt" />
       <module name="KotlinTutorial" />
@@ -177,22 +175,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapAlgo" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.tutorial1.HeapAlgo" />
+    <configuration name="Maps" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.util.Maps" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.MainKt" />
+    <configuration name="PascalTriangles" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.util.PascalTriangles" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.util.NumbersKt" />
+    <configuration name="RotateInnerRectangle" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.util.RotateInnerRectangle" />
+      <module name="KotlinTutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SierpinskiTriangle" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.util.SierpinskiTriangle" />
       <module name="KotlinTutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -200,21 +205,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.PascalTriangles" />
         <item itemvalue="Kotlin.FunKt" />
-        <item itemvalue="Kotlin.NumbersKt" />
-        <item itemvalue="Kotlin.HeapAlgo" />
-        <item itemvalue="Kotlin.AboutFunctionsKt" />
+        <item itemvalue="Kotlin.SierpinskiTriangle" />
+        <item itemvalue="Kotlin.RotateInnerRectangle" />
+        <item itemvalue="Kotlin.Maps" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.127" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.127" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -224,7 +221,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665472568746</updated>
-      <workItem from="1711400016513" duration="1141000" />
+      <workItem from="1711400016513" duration="2154000" />
+      <workItem from="1711409189406" duration="1225000" />
+      <workItem from="1711410434206" duration="595000" />
+      <workItem from="1711430489638" duration="528000" />
+      <workItem from="1711523141413" duration="519000" />
+      <workItem from="1711546961271" duration="16000" />
+      <workItem from="1711558263417" duration="1503000" />
     </task>
     <task id="LOCAL-00001" summary="Added TicTacToe file">
       <created>1666052353436</created>
@@ -268,7 +271,23 @@
       <option name="project" value="LOCAL" />
       <updated>1687543406625</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="migrated to Kotlin maven plugin 2.0.0-Beta5">
+      <option name="closed" value="true" />
+      <created>1711401368099</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711401368099</updated>
+    </task>
+    <task id="LOCAL-00008" summary="migrated to Kotlin maven plugin 2.0.0-Beta5">
+      <option name="closed" value="true" />
+      <created>1711401385284</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711401385284</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +308,8 @@
     <MESSAGE value="Added TicTacToe file" />
     <MESSAGE value="added package" />
     <MESSAGE value="added some question" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some question" />
+    <MESSAGE value="migrated to Kotlin maven plugin 2.0.0-Beta5" />
+    <option name="LAST_COMMIT_MESSAGE" value="migrated to Kotlin maven plugin 2.0.0-Beta5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
